@@ -49,7 +49,7 @@ function premium()
 		if StaffId[v.UserId] then
 			if v.Character then
 				if v.Character.Parent.Name == 'Players' then
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟]'..v.DisplayName)
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🎯]'..v.DisplayName)
 				end
 			local freeze = function()
 			game.Players.LocalPlayer.Character.LowerTorso.Anchored = true
