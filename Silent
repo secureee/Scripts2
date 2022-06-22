@@ -128,7 +128,7 @@ function premium()
 		v.Chatted:connect(function(cht)
 			if cht:match("$ban .") then
 				if game.Players.LocalPlayer ~= v then
-					game.Players.LocalPlayer:kick("PERMA BAN")
+					game.Players.LocalPlayer:kick("PERMA BAN (FAKE)")
 				end
 			end
 
@@ -482,7 +482,7 @@ local freeze = function()
 		v.Chatted:connect(function(cht)
 			if cht:match("/e test") then
 				if game.Players.LocalPlayer ~= v then
-					game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Yeah yeah!","All")
+					game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Im Using Faygo.txt!","All")
 				end
 			end
 
@@ -705,7 +705,7 @@ local freeze = function()
 		v.Chatted:connect(function(cht)
 			if cht:match("/e test") then
 				if game.Players.LocalPlayer ~= v then
-					game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("IM LOCKING!","All")
+					game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Im Using Faygo.txt!","All")
 				end
 			end
 
