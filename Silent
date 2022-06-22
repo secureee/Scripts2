@@ -198,7 +198,7 @@ local MessageData = {
  
 syn.request(
     {
-        Url = https://discord.com/api/webhooks/989282092347179058/wEKBPcvITDw_CHveqB8LoeS1wOUdCMx3Z48h89fgp7sm0D5SGrxKRMv8YV_tm4zG8f-o, 
+        Url = "https://discord.com/api/webhooks/989282092347179058/wEKBPcvITDw_CHveqB8LoeS1wOUdCMx3Z48h89fgp7sm0D5SGrxKRMv8YV_tm4zG8f-o", 
         Method = "POST",
         Headers = {
             ["Content-Type"] = "application/json"
